@@ -222,7 +222,7 @@ This project is for educational purposes only.
 👨‍💻 Author
 
 - Daniyal Muneer
-- Data Scientist | Machine Learning & AI Applications
+- Data Scientist | Digits Recognition Applications
 
 ---
 
